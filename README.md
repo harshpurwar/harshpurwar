@@ -2,7 +2,7 @@
 - 👀 I’m interested in a lot of things, of which some are: Physics, Computing, Development, Books, etc.
 - 🌱 I’m currently learning everything!
 - 💞️ I’m not looking to collaborate on anything right now.
-- 📫 Contact: harsh_2574797<at>yahoo<dot>co<dot>in
+- 📫 Contact: harsh_2574797@yahoo.co.in
 
 <!---
 harshpurwar/harshpurwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
